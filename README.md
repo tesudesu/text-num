@@ -1,12 +1,13 @@
-# Simple Number Encrypter & Decrypter
+## Simple Number Encrypter & Decrypter
 
-Web application where you can convert alphabet to number (e.g. B -> 2) and number to alphabet (e.g. 2 -> B). Allows offset (e.g. B = 5, where offset equals 3).
+Web application: https://text-num.onrender.com
 
-Technologies: HTML, CSS, JavaScript (React)
+Converts alphabet to number (e.g. B -> 2) and number to alphabet (e.g. 2 -> B). Allows offset (e.g. B = 5, Z = 3, where offset equals 3).
 
-Demo: https://text-num.onrender.com
+Technologies: HTML, vanilla CSS, React, create-react-app
 
-### Attribution
+Font 'Noto Sans' and icon 'Content Copy' from Google Fonts.
 
-- Font 'Noto Sans' from Google Fonts
-- Icon 'Content Copy' from Google Fonts Icons
+Designed and coded by me :sunglasses:
+
+All rights reserved.
